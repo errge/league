@@ -1,0 +1,13 @@
+Cloak: 900 gold only, 50 MR already
+Maw: 50 MR, AD, Haste, shield passive that procs on magic damage
+Wits End: 40MR, 40% AS, 40 AD, onhit magic (!) damage
+Force of Nature: 70 MR (the most), 350 health (cool), 5% movement speed (extra cool), stacking passive
+
+QSS: 1300 gold base QSS
+Health version: 40 MR, 40 AD, 300 Health
+Crit version: 40 MR, 40 AD, 20% crit, 
+
+Very situational:
+Spirit visage: 50 MR, 25% extra healing, 450 health, probably OK with Soraka or Yuumi support
+Gargoyle: 60 MR, 60 Armor (!), 15 ability haste, shield active
+Mikhaels blessing: 50 MR, mana regen, healing+shield power 16%, 15 ability haste, kiszed valaki mast a CC-bol
